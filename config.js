@@ -13,8 +13,8 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6285742344873'] // Masukan nomot kalian
+global.linkGC = ['https://chat.whatsapp.com/IUjBrtwAFyZ5r5himACEWs'] // ganti jadi group lu
+global.owner = ['6281393998039'] // Masukan nomot kalian
 global.mods = ['0'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
